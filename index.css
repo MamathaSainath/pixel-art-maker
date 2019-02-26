@@ -1,0 +1,20 @@
+.innerContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.pixel{
+    border-style: solid;
+    border-color: dimgray;
+    padding: 20px;
+}
+@media all and (min-width: 600px) {
+    .aside { flex: 1 0 0; }
+}
+.color-main{
+    display:flex;
+    flex-direction: row;
+    border-style: dotted;
+    border-color: black;
+    padding: 20px;
+}
