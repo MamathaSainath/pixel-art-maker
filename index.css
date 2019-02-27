@@ -1,8 +1,7 @@
-.innerContainer{
+.innerContainer {
     display: flex;
     flex-direction: row;
 }
-
 .pixel{
     border-style: solid;
     border-color: dimgray;

@@ -43,9 +43,6 @@ function colorPalette(eleDiv){
         colorDiv.onclick= (e)=>{
             paletteColor = e.target.style.backgroundColor
         }
-
-
-
         colorMainDiv.appendChild(colorDiv)
     });
 
